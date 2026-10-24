@@ -1,0 +1,18 @@
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# 开发期截图
+.shots/
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# 日志
+npm-debug.log*
+yarn-error.log*
+pnpm-debug.log*
