@@ -85,7 +85,6 @@ Service Worker 需要 HTTPS（`localhost` 例外），上述平台默认提供�
 - [ ] 常吃食物在今日页一键复现
 - [ ] 体重记录与趋势叠加
 - [ ] 周/月报告（环比、达标率）
-- [ ] 条码扫描（需原生壳，Web 端 iOS 不支持 `BarcodeDetector`）
 
 ## License
 
